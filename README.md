@@ -31,6 +31,31 @@ The goal is to help developers, marketers, and small teams automate common SEO t
 Many developers and marketers want to automate SEO tasks but lack technical tools.  
 This project provides simple automation workflows that anyone can use.
 
+## Installation
+
+1. Clone the repository
+
+git clone https://github.com/manavgodhani/ai-seo-automation-toolkit
+
+2. Open workflows in n8n
+
+3. Connect your tools:
+- WordPress
+- Google Sheets
+- AI API (Claude or other models)
+
+4. Run the automation workflows
+
+## Roadmap
+
+Planned features:
+
+- AI keyword clustering workflow
+- Automated blog generation pipeline
+- SEO audit analyzer
+- Internal linking recommendation system
+- Documentation for automation setup
+
 ## Future Plans
 
 - More automation workflows
