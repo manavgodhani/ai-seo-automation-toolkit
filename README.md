@@ -36,3 +36,8 @@ This project provides simple automation workflows that anyone can use.
 - More automation workflows
 - AI powered SEO tools
 - Documentation and tutorials
+
+## Contributing
+
+Contributions are welcome.  
+Feel free to submit automation workflows or improvements.
